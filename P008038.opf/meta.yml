@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29234
   title: མདོ་རྒྱུད་བསྟན་བཅོས་ཀུན་ལས་བཏུས་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་མུ་ཐི་ལའི་འཕྲེང་བ
-  volume: ''
+  volume:
+    c5fe84d4131840f19b655a5fa26e9893:
+      image_group_id: I5255
+      title: ''
+      volume_number: 1
+      total_pages: 320
   author: ''
+ebook_metadata:
+  title: མདོ་རྒྱུད་བསྟན་བཅོས་ཀུན་ལས་བཏུས་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་མུ་ཐི་ལའི་འཕྲེང་བ
+  author: ''
+  sku: P008038
+  cover: cover.jpg
+  layers:
+  - pagination
